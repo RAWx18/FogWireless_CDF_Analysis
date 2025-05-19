@@ -87,3 +87,7 @@
 2025-05-19 11:27:38,397 - INFO - Processing exact CDF for m = 10.3 (2/3)
 2025-05-19 11:27:38,397 - INFO - Calculating exact CDF values for m=10.3 using parallel processing
 2025-05-19 11:27:38,397 - INFO - Using 19 CPU cores for parallel processing
+2025-05-19 11:44:05,428 - INFO - Parallel calculation completed for m=10.3, k=2.32, z=4.343
+2025-05-19 11:44:05,430 - INFO - Processing exact CDF for m = 20.3 (3/3)
+2025-05-19 11:44:05,430 - INFO - Calculating exact CDF values for m=20.3 using parallel processing
+2025-05-19 11:44:05,430 - INFO - Using 19 CPU cores for parallel processing
